@@ -1,0 +1,5 @@
+name: Jesterpets
+version: '${project.version}'
+main: jestermc.next.plugins.jesterpets.Jesterpets
+api-version: 1.19
+authors: [ NextDev ]
